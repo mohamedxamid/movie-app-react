@@ -12,7 +12,7 @@ function Main() {
   function handleSearch(str, type = "all", page = "1") {
     setLoading(true);
     fetch(
-      `http://www.omdbapi.com/?apikey=b19fd6e&s=${str}${
+      `https://www.omdbapi.com/?apikey=b19fd6e&s=${str}${
         type !== "all" ? `&type=${type}` : ""
       }${page !== "1" ? `&page=${page}` : ""}`
     )
