@@ -7,6 +7,7 @@ function Footer() {
         <p className="xl:ml-8 lg:ml-7 md:ml-6 sm:ml-5 ml-4">
           &copy; 2022 Copyright Text
         </p>
+        {/* eslint-disable-next-line */}
         <a href="#" className="xl:mr-8 lg:mr-7 md:mr-6 sm:mr-5 mr-4">
           Movies
         </a>
