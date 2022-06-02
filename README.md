@@ -1,3 +1,5 @@
+#DEMO: https://movie2005.netlify.app/
+
 # Getting Started with NPM install
 
 # Ishlatilgan texnologiyalar:
